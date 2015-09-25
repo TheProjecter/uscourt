@@ -1,0 +1,1 @@
+Application for storing, entering, and providing services to retrieve court case information. Eventually would like to give this to counties and district courts for free so that background checks can go through a some what sane method of verifying court cases and applicant eligibility.
